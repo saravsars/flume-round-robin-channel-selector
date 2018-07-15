@@ -1,4 +1,4 @@
-# flume-round-robin-channel-selector
+# flume-round-robin-channel-selector [![Build Status](https://travis-ci.org/saravsars/flume-round-robin-channel-selector.svg?branch=master)](https://travis-ci.org/saravsars/flume-round-robin-channel-selector)
 
 Round-robin channel selector to distribute events from a source to multiple channels for increasing the throughput
 
